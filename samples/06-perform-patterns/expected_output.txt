@@ -1,0 +1,6 @@
+Interest (50K, 4.5%, 5yr): +0002250.00
+Interest (100K, 3.25%, 10yr): +0003250.00
+Total interest: +0000005500.00
+Formatted: Smith, John
+Amount 5000.00 is valid
+Amount 50000.00 is invalid
